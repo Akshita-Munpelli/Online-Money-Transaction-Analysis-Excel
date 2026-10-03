@@ -1,2 +1,2 @@
-# Online-Money-Transaction-Analysis-Excel
-A data analytics project focused on transforming raw data into meaningful insights using interactive dashboards. The project includes data cleaning, analysis, KPI tracking, and visualization to identify trends, patterns, and business performance.
+## Project Overview
+The PhonePe Transaction Analysis Dashboard is an interactive Excel dashboard designed to analyze digital payment transactions and identify trends across states, transaction types, and payment performance.
