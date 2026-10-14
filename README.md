@@ -20,14 +20,14 @@ Here is a preview of the interactive Online Money Transaction Analysis Dashboard
 - Suspected Fraud
 
 ## Visualizations
-- Daily Transaction Amount Trend: Tracks transaction amount fluctuations over time.
-- Transaction by UPI App: Compares usage across PhonePe, Google Pay, Paytm, Amazon Pay, BHIM, Cred Pay, and WhatsApp Pay.
-- Transaction by Status: Displays successful, failed, pending, and refunded transactions.
-- State-wise Transaction Analysis: Highlights transaction amount distribution across Indian states.
-- Bank-wise Transaction Analysis: Compares transaction amounts across different banks.
-- Transaction Type Analysis: Analyzes transaction amounts by P2M, P2P, bill payment, online, recharge, subscription, and wallet transfer.
-- Date-wise Transaction Analysis: Shows transaction amount patterns across dates.
-- Day-wise Transaction Analysis: Compares transaction activity across days of the week.
+- **Daily Transaction Amount Trend** : Tracks transaction amount fluctuations over time.
+- **Transaction by UPI App**: Compares usage across PhonePe, Google Pay, Paytm, Amazon Pay, BHIM, Cred Pay, and WhatsApp Pay.
+- **Transaction by Status**: Displays successful, failed, pending, and refunded transactions.
+- **State-wise Transaction Analysis**: Highlights transaction amount distribution across Indian states.
+- **Bank-wise Transaction Analysis**: Compares transaction amounts across different banks.
+- **Transaction Type Analysis**: Analyzes transaction amounts by P2M, P2P, bill payment, online, recharge, subscription, and wallet transfer.
+- **Date-wise Transaction Analysis**: Shows transaction amount patterns across dates.
+- **Day-wise Transaction Analysis**: Compares transaction activity across days of the week.
 
 ## Key Insights
 - The dashboard reports a 91% transaction success rate.
